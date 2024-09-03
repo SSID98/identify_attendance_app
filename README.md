@@ -80,7 +80,7 @@ Enables the ability to load, manipulate, and save images with various image file
 ### 1. Clone the Repository
 bash
 ```Copy code
-git clone https://github.com/Omozuas/Flutter_Boilerplate_Hng11.git
+https://github.com/SSID98/identify_attendance_app.git
 ```
 
 
