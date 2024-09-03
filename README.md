@@ -118,7 +118,20 @@ For iOS:
 
 flutter build ios --release
 ```      
+# Screenshots
 
+## Home Screen
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/5b7d7354-1844-473d-96c0-54d44c6a5f6a">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/349f6979-5356-41e9-b14c-145138c45fdd">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/7e7ec595-f182-4d21-a46f-978c9ff12cc2">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/7bd05631-3e59-4994-8b55-23fc921bc4b8">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/ddcb53e5-bd32-493c-af4b-8043b7467365">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/933656f4-76de-474d-9cc5-917a45d44070">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/207a7136-8587-4975-b8ac-4d0b97b67fa5">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/ff7a9f7b-173e-48c0-9d8a-9defcfb79cad">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/f0bbcc61-05fe-43e6-9f5d-95ec2a432d23">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/d76f564e-de18-4317-ad4b-eeeff8c53704">
+<img width="184" alt="Game Screen" src="https://github.com/user-attachments/assets/8f051b6f-14e9-43cc-9cbf-baa64324068c">
 
 
 
